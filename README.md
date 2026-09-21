@@ -1,2 +1,2 @@
-# Barber
+# Barbershop software
 
