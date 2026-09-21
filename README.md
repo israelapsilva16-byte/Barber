@@ -1,2 +1,2 @@
-# Barbershop software
+# Software administracion
 
